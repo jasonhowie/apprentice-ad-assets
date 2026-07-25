@@ -4,51 +4,157 @@
       "1080x1350": {
         "ai_generated": true,
         "model": "fal-ai/nano-banana-2",
-        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v1-1080x1350.png"
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v1-1080x1350-0d137855.png"
       },
       "1080x1920": {
         "ai_generated": true,
         "model": "fal-ai/nano-banana-2",
-        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v1-1080x1920.png"
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v1-1080x1920-0beb43be.png"
       },
       "1200x628": {
         "ai_generated": true,
         "model": "fal-ai/nano-banana-2",
-        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v1-1200x628.png"
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v1-1200x628-0ba2558c.png"
       }
     },
     "v2": {
       "1080x1350": {
         "ai_generated": true,
         "model": "fal-ai/nano-banana-2",
-        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v2-1080x1350.png"
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v2-1080x1350-a5d9a523.png"
       },
       "1080x1920": {
         "ai_generated": true,
         "model": "fal-ai/nano-banana-2",
-        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v2-1080x1920.png"
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v2-1080x1920-80cc82ff.png"
       },
       "1200x628": {
         "ai_generated": true,
         "model": "fal-ai/nano-banana-2",
-        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v2-1200x628.png"
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v2-1200x628-b729e3a8.png"
       }
     },
     "v3": {
       "1080x1350": {
         "ai_generated": true,
         "model": "fal-ai/nano-banana-2",
-        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v3-1080x1350.png"
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v3-1080x1350-3caeb1ec.png"
       },
       "1080x1920": {
         "ai_generated": true,
         "model": "fal-ai/nano-banana-2",
-        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v3-1080x1920.png"
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v3-1080x1920-ea971e77.png"
       },
       "1200x628": {
         "ai_generated": true,
         "model": "fal-ai/nano-banana-2",
-        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v3-1200x628.png"
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/books-v3-1200x628-9bd7c3c8.png"
+      }
+    }
+  },
+  "channels": {
+    "v1": {
+      "1080x1350": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/channels-v1-1080x1350-9af60b3d.png"
+      },
+      "1080x1920": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/channels-v1-1080x1920-354c9c67.png"
+      },
+      "1200x628": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/channels-v1-1200x628-d15f5b7b.png"
+      }
+    },
+    "v2": {
+      "1080x1350": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/channels-v2-1080x1350-7de0ec27.png"
+      },
+      "1080x1920": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/channels-v2-1080x1920-9b00a4a9.png"
+      },
+      "1200x628": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/channels-v2-1200x628-c621e637.png"
+      }
+    },
+    "v3": {
+      "1080x1350": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/channels-v3-1080x1350-438f800e.png"
+      },
+      "1080x1920": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/channels-v3-1080x1920-8faad617.png"
+      },
+      "1200x628": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/channels-v3-1200x628-88079600.png"
+      }
+    }
+  },
+  "write": {
+    "v1": {
+      "1080x1350": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/write-v1-1080x1350-e128f590.png"
+      },
+      "1080x1920": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/write-v1-1080x1920-f15fda23.png"
+      },
+      "1200x628": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/write-v1-1200x628-fdfa42ce.png"
+      }
+    },
+    "v2": {
+      "1080x1350": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/write-v2-1080x1350-6f21a480.png"
+      },
+      "1080x1920": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/write-v2-1080x1920-36f80825.png"
+      },
+      "1200x628": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/write-v2-1200x628-c18f935f.png"
+      }
+    },
+    "v3": {
+      "1080x1350": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/write-v3-1080x1350-a8fd7c0e.png"
+      },
+      "1080x1920": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/write-v3-1080x1920-cf530a62.png"
+      },
+      "1200x628": {
+        "ai_generated": true,
+        "model": "fal-ai/nano-banana-2",
+        "url": "https://raw.githubusercontent.com/jasonhowie/apprentice-ad-assets/main/write-v3-1200x628-a219c36d.png"
       }
     }
   }
